@@ -1,6 +1,6 @@
-# emall-mobile
+# px2vw-demo
 
-> A Vue.js project
+> 测试px2vw 应用于vue时的style绑定问题
 
 ## Build Setup
 
